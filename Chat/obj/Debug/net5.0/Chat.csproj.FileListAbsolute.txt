@@ -1,0 +1,8 @@
+C:\GX2\DRPAY\TestesRobson\ChatSignalR\Chat\obj\Debug\net5.0\Chat.csprojAssemblyReference.cache
+C:\GX2\DRPAY\TestesRobson\ChatSignalR\Chat\obj\Debug\net5.0\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\GX2\DRPAY\TestesRobson\ChatSignalR\Chat\obj\Debug\net5.0\Chat.AssemblyInfoInputs.cache
+C:\GX2\DRPAY\TestesRobson\ChatSignalR\Chat\obj\Debug\net5.0\Chat.AssemblyInfo.cs
+C:\GX2\DRPAY\TestesRobson\ChatSignalR\Chat\obj\Debug\net5.0\Chat.csproj.CoreCompileInputs.cache
+C:\GX2\DRPAY\TestesRobson\ChatSignalR\Chat\obj\Debug\net5.0\Chat.MvcApplicationPartsAssemblyInfo.cache
+C:\GX2\DRPAY\TestesRobson\ChatSignalR\Chat\obj\Debug\net5.0\Chat.RazorAssemblyInfo.cache
+C:\GX2\DRPAY\TestesRobson\ChatSignalR\Chat\obj\Debug\net5.0\Chat.RazorAssemblyInfo.cs
